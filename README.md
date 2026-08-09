@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌴 HH Goa 2026 — Builder Identity Generator
 
-## Getting Started
+A creative web application that generates a personalized **Hacker House Goa 2026 Builder Identity Pass**.
 
-First, run the development server:
+Users can upload their photo, enter their name and technical stack/role, and instantly generate a customized Goa-themed builder pass that can be downloaded as a high-quality PNG image.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Live Demo
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🌐 **Live Website:**  
+https://hh-goa-2026-frame-generator-ashy.vercel.app/
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 💻 GitHub Repository
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+https://github.com/hannajjoseph/hh-goa-2026-frame-generator
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## ✨ Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 📸 Upload a personal photo
+- 👤 Enter your full name
+- 💻 Enter your technical stack / role
+- 🧠 Automatically generates a unique Builder Title
+- 🎨 Goa-themed Hacker House 2026 visual design
+- 🪪 Dynamic Builder Identity Card
+- 📥 Download the generated pass as a PNG
+- 🔗 Share the project through X
+- 📱 Responsive web interface
+- ⚡ No login or signup required
+- ☁️ Deployed using Vercel
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🧠 Automatic Builder Titles
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The application analyzes the user's stack/role and assigns an appropriate builder identity.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Stack / Role | Builder Title |
+|---|---|
+| AI / Machine Learning / ML | 🧠 NEURAL NOMAD |
+| Web / Frontend / Developer | 🏴‍☠️ PIXEL PIRATE |
+| UI / UX / Design | ✨ PIXEL ALCHEMIST |
+| Data / Analytics | 📊 DATA EXPLORER |
+| Cyber / Security | 🛡️ CODE GUARDIAN |
+| Hardware / IoT / Robotics | ⚡ CIRCUIT NOMAD |
+| Other | 🏗️ BUILD NOMAD |
+
+### Example
+
+Input:
+
+```text
+Name: Hannah J Joseph
+Stack / Role: AI / DS Student
